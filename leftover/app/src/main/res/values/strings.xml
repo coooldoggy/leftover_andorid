@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">LeftOver</string>
+    <string name="route_splash">Splash</string>
+    <string name="route_main">Main</string>
+</resources>
